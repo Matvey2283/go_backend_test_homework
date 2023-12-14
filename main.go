@@ -8,6 +8,7 @@ func Add(a, b int) int {
 	return a + b
 }
 
+// ufdyj
 func main() {
-	fmt.Println("Я домашка")
+	fmt.Println("Я домашка, Бро")
 }
